@@ -1,10 +1,6 @@
 def selfside():
-    firstInput = input("radius")
-    secondInput = input ("parameter")
-    square = int(firstInput) * int(secondInput);
-    return square 
-parameter <0:
-    print ("parameter less than 0",square)
-    else
-if parameter >0:
-    print ("paramter more than 0", less)
+   self.side= selfSide
+   square>0
+   if square=0
+   then selfside=0
+def display (self):
