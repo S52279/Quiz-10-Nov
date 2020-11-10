@@ -1,5 +1,10 @@
-def selfside()
-firstInput = input("radius")
-secondInput = input ("parameter")
-square = int(firstInput) * int(secondInput);
-selfside=0
+def selfside():
+    firstInput = input("radius")
+    secondInput = input ("parameter")
+    square = int(firstInput) * int(secondInput);
+    return square 
+parameter <0:
+    print ("parameter less than 0",square)
+    else
+if parameter >0:
+    print ("paramter more than 0", less)
