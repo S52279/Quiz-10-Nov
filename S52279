@@ -1,0 +1,4 @@
+def selfside()
+firstInput = input("radius")
+secondInput = input ("parameter")
+square = int(firstInput) * int(secondInput);
